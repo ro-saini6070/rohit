@@ -1,13 +1,10 @@
  <?php
-<<<<<<< HEAD
-=======
- echo 'this is sdec';
->>>>>>> dev
+ echo 'this is sdecdsfsdfsdfsdfsdffd';
 $servername = "localhost";
 $username = "root";
 $password = "";
 $dbname = "joins";
-hello
+
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
