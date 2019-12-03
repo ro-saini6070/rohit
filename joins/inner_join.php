@@ -1,5 +1,5 @@
  <?php
- echo 'this is sdecdsfsdfsdfsdfsdffddfdsfdf122321312312';
+ echo 'this is sdecdsfsdfsdfsdfsdffddfdsfdf122321312312dede geda';
 $servername = "localhost";
 $username = "root";
 $password = "";
