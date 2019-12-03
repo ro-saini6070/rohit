@@ -1,5 +1,5 @@
  <?php
- echo 'tesczxczsdfsdfdfxct';
+ echo 'tesczxczsdfsdfsdfsdfsdfsdfdfdffdfxct';
 $servername = "localhost";
 $username = "root";
 $password = "";
