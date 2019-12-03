@@ -1,10 +1,9 @@
  <?php
- echo 'tesczxczsdfsdfsdfsdfsdfsdfdfdffdfxct';
 $servername = "localhost";
 $username = "root";
 $password = "";
 $dbname = "joins";
-
+hello
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
