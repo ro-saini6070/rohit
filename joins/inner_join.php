@@ -1,4 +1,8 @@
  <?php
+<<<<<<< HEAD
+=======
+ echo 'this is sdec';
+>>>>>>> dev
 $servername = "localhost";
 $username = "root";
 $password = "";
