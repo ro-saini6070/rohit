@@ -1,5 +1,5 @@
  <?php
- echo 'tesczxczsdfsdfsdfsdfsdfsdfdfdffdfxct';
+ echo 'this is sdec';
 $servername = "localhost";
 $username = "root";
 $password = "";
